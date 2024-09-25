@@ -6,3 +6,9 @@ Testing-Week-3-Wednesday-Atlassian
 ____
 
 ![jiraProjects.png](/static/images/jiraProjects.png)
+
+____
+
+![softwareDevelopment.png](/static/images/softwareDevelopment.png)
+
+____
