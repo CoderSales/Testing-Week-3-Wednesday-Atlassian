@@ -12,3 +12,7 @@ ____
 ![softwareDevelopment.png](/static/images/softwareDevelopment.png)
 
 ____
+
+![kanban.png](/static/images/kanban.png)
+
+____
