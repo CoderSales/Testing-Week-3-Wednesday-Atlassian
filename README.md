@@ -5,7 +5,15 @@ Testing-Week-3-Wednesday-Atlassian
 
 ____
 
+![arrow.png](/static/images/arrow.png)
+
+____
+
 ![jiraProjects.png](/static/images/jiraProjects.png)
+
+____
+
+![arrow.png](/static/images/arrow.png)
 
 ____
 
@@ -13,7 +21,15 @@ ____
 
 ____
 
+![arrow.png](/static/images/arrow.png)
+
+____
+
 ![kanban.png](/static/images/kanban.png)
+
+____
+
+![arrow.png](/static/images/arrow.png)
 
 ____
 
