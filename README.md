@@ -16,3 +16,7 @@ ____
 ![kanban.png](/static/images/kanban.png)
 
 ____
+
+![kanbanSelected.png](/static/images/kanbanSelected.png)
+
+____
