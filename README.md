@@ -5,7 +5,7 @@ Testing-Week-3-Wednesday-Atlassian
 
 ____
 
-![arrow.png](/static/images/arrow.png)
+![arrowSmall.png](/static/images/arrowSmall.png)
 
 ____
 
@@ -13,7 +13,7 @@ ____
 
 ____
 
-![arrow.png](/static/images/arrow.png)
+![arrowSmall.png](/static/images/arrowSmall.png)
 
 ____
 
@@ -21,7 +21,7 @@ ____
 
 ____
 
-![arrow.png](/static/images/arrow.png)
+![arrowSmall.png](/static/images/arrowSmall.png)
 
 ____
 
@@ -29,7 +29,7 @@ ____
 
 ____
 
-![arrow.png](/static/images/arrow.png)
+![arrowSmall.png](/static/images/arrowSmall.png)
 
 ____
 
